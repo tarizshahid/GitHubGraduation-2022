@@ -1,6 +1,6 @@
 ---
-name: Ogheneyoma Okobiah
-institution: Nile University of Nigeria
-quote: Determination is a burning desire for success.
-github_user: yomaokobiah
+name: Tariz Shahid
+institution: FAST NUCES Pakistan
+quote: It's always you vs you.
+github_user: tarizshahid
 ---
